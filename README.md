@@ -10,7 +10,7 @@ https://junk-programing.github.io/shopping-memo/
 ## セットアップ～インストール～スタート
 リポジトリをクローンします
 
-git clone https://github.com/Junk-Programing/shopping-mem.git
+git clone https://github.com/Junk-Programing/shopping-memo.git
 
 コマンドにより、pitch-recognitionフォルダ直下で下記のコマンドを使い、必要なモジュールをインストールします。
 
