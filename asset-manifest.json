@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shopping-memo/static/css/main.644c0ec4.css",
-    "main.js": "/shopping-memo/static/js/main.d6c00e20.js",
+    "main.js": "/shopping-memo/static/js/main.09ab3829.js",
     "index.html": "/shopping-memo/index.html",
     "main.644c0ec4.css.map": "/shopping-memo/static/css/main.644c0ec4.css.map",
-    "main.d6c00e20.js.map": "/shopping-memo/static/js/main.d6c00e20.js.map"
+    "main.09ab3829.js.map": "/shopping-memo/static/js/main.09ab3829.js.map"
   },
   "entrypoints": [
     "static/css/main.644c0ec4.css",
-    "static/js/main.d6c00e20.js"
+    "static/js/main.09ab3829.js"
   ]
 }
