@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 買い物リストを作成しよう
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -222,7 +222,7 @@ export default function App() {
         <button className="btn btn-primary m-1" onClick={register}>新規登録</button>
         <button className="btn btn-secondary m-2" onClick={login}>ログイン</button>
         <br />
-        <img src="/list.png" alt="買い物リスト" />
+        <img src={process.env.PUBLIC_URL + "/list.png"} alt="買い物リスト" />
       </div>
     );
   }
